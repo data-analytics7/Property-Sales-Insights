@@ -1,2 +1,2 @@
 # Property-Sales-Insights
-Analysing houses sold in Seattle  between Mat 2014 to May 2015.
+Analysing prices of properties sold in Seattle between Mar 2014 to May 2015.
